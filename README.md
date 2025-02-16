@@ -63,3 +63,6 @@ The `run_func` function, implemented in `func_select.s`, receives the user’s c
  ```bash
    make
 
+3. Run the program:
+ ```bash
+   ./pstrings
